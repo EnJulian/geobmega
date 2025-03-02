@@ -17,10 +17,48 @@ This document outlines all the images needed for the Geobmega website based on t
 
 ## Services Page Images
 
-- `/images/exploration.jpg` - Geological surveys, exploration activities
-- `/images/extraction.jpg` - Mining extraction operations
-- `/images/processing.jpg` - Mineral processing facilities
-- `/images/consulting.jpg` - Mining consultants at work
+### Mining Services
+- `/images/exploration-hero.jpg` - Hero image showing geological survey team in action
+- `/images/exploration.jpg` - Main exploration image showing survey equipment and team
+- `/images/exploration-tech.jpg` - Modern exploration technology and equipment
+- `/images/exploration-survey.jpg` - Active geological survey in progress
+- `/images/exploration-analysis.jpg` - Team analyzing geological data
+- `/images/extraction-hero.jpg` - Hero image of large-scale mining operation
+- `/images/extraction.jpg` - Main extraction operations image
+- `/images/surface-mining.jpg` - Active open-pit mining operation
+- `/images/underground-mining.jpg` - Underground mining tunnel with modern equipment
+- `/images/environmental-mining.jpg` - Environmental protection measures in mining
+- `/images/processing-hero.jpg` - Hero image of modern processing facility
+- `/images/processing.jpg` - Main mineral processing operations
+- `/images/crushing-grinding.jpg` - Modern crushing and grinding equipment
+- `/images/separation-flotation.jpg` - Mineral separation and flotation processes
+- `/images/hydrometallurgy.jpg` - Hydrometallurgical processing facility
+- `/images/consulting-hero.jpg` - Hero image showing professional consulting environment
+- `/images/consulting.jpg` - Main consulting services image
+- `/images/project-evaluation.jpg` - Team evaluating mining project
+- `/images/environmental-consulting.jpg` - Environmental assessment in progress
+- `/images/operational-excellence.jpg` - Operational optimization consultation
+
+### Construction Services
+- `/images/construction-hero.jpg` - Construction services hero image (60vh height)
+- `/images/road-construction.jpg` - Active road construction site with equipment
+- `/images/building-construction.jpg` - Building construction or completed project
+- `/images/construction-equipment.jpg` - Modern construction equipment fleet
+- `/images/construction-site.jpg` - Active construction site showing safety practices
+
+### Equipment Training & Rental Services
+- `/images/training-hero.jpg` - Training services hero image (60vh height)
+- `/images/equipment-training.jpg` - Training session with heavy equipment
+- `/images/equipment-rental.jpg` - Well-maintained equipment fleet
+- `/images/heavy-equipment.jpg` - Various heavy equipment in operation
+- `/images/safety-training.jpg` - Safety training session in progress
+
+### Agricultural Services
+- `/images/agriculture-hero.jpg` - Agriculture services hero image (60vh height)
+- `/images/livestock.jpg` - Modern livestock facility operations
+- `/images/crop-management.jpg` - Advanced crop management practices
+- `/images/farm-equipment.jpg` - Agricultural equipment in use
+- `/images/sustainable-farming.jpg` - Sustainable farming practices
 
 ## About Page Images
 
@@ -35,26 +73,65 @@ This document outlines all the images needed for the Geobmega website based on t
 ### Hero Images
 - Resolution: High-resolution (at least 1920x1080px)
 - Aspect ratio: 16:9 or wider
-- Style: Dramatic mining landscapes, operations, or professional settings
+- Style: Dramatic landscapes or operations showing service expertise
 - Overlay: Dark overlay will be applied in code (blackAlpha.700)
 
-### Content Images
+### Service Category Images
 - Resolution: At least 800x600px
-- Style: Professional, showing relevant mining activities
+- Style: Professional, showing active operations and modern equipment
 - Format: JPG or PNG with good compression
+- Content: Must show proper safety equipment and practices
+- Lighting: Well-lit, preferably natural lighting
+- Composition: Clear focus on the service being provided
 
-### Team Member Images
-- Resolution: At least 400x400px
-- Style: Professional headshots on neutral backgrounds
-- Format: Square images (will be displayed as circles)
+### Safety and Environmental Standards
+- All personnel in images must wear appropriate PPE
+- Equipment must meet current safety standards
+- Environmental protection measures should be visible where applicable
+- No unsafe practices or environmental damage should be shown
+
+### Brand Consistency
+- Consistent color grading across all service categories
+- Professional and modern appearance
+- Focus on technology and sustainability
+- Clean and well-maintained equipment and facilities
+- Avoid competitor branding or logos
+
+## Image Specifications for Mining Services
+
+### Technical Requirements
+- Resolution: Minimum 800x600px for content images, 1920x1080px for hero images
+- Format: JPG for photographs
+- Quality: High-quality, professional photography
+- File size: Optimize for web (max 500KB for content images, 1MB for hero images)
+
+### Style Guidelines
+- Professional mining operations in action
+- Modern equipment and technology
+- Clean, well-maintained facilities
+- Proper safety equipment and practices visible
+- Environmental protection measures shown where applicable
+
+### Safety Standards in Images
+- All personnel wearing proper PPE (hard hats, safety vests, steel-toed boots)
+- Clear safety signage visible where appropriate
+- Well-lit working environments
+- Proper equipment operation demonstrated
+- Safety barriers and protection visible
+
+### Environmental Considerations
+- Show modern environmental protection measures
+- Include water management systems
+- Dust control measures visible
+- Rehabilitation efforts where applicable
+- Clean and organized work areas
 
 ## Image Sources
+1. Professional photography of actual operations
+2. Licensed stock photography (Shutterstock, Adobe Stock, Getty Images)
+3. Company-owned image library
 
-Options for sourcing these images:
-
-1. Professional photography of actual company operations
-2. Stock photography from services like Shutterstock, Adobe Stock, or Unsplash
-3. AI-generated images (ensuring they look realistic and professional)
+Note: All images must be properly licensed for commercial use and reflect current industry standards and practices.
 
 ## Image Guidelines
 

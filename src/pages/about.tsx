@@ -187,7 +187,7 @@ export default function About() {
                   objectFit="cover" 
                   boxShadow="md" 
                 />
-                <Heading as="h3" size="md">Sarah Johnson</Heading>
+                <Heading as="h3" size="md">George Asongo</Heading>
                 <Text fontWeight="bold" color="blue.600">Chief Executive Officer</Text>
                 <Text textAlign="center">
                   With over 20 years of experience in the mining industry, Sarah leads our company with vision and integrity.
