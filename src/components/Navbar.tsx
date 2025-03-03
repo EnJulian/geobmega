@@ -1,7 +1,7 @@
 import { Box, Container, Heading, Text, HStack, VStack, Button, Link, Menu, MenuButton, MenuList, MenuItem, IconButton, useDisclosure } from '@chakra-ui/react';
 import NextLink from 'next/link';
 import { useRouter } from 'next/router';
-import { HamburgerIcon, ChevronDownIcon } from '@chakra-ui/icons';
+import { HamburgerIcon, ChevronDownIcon, CloseIcon } from '@chakra-ui/icons';
 
 // Custom theme colors
 const colors = {
@@ -109,8 +109,8 @@ export default function Navbar() {
           <IconButton
             display={{ base: 'flex', md: 'none' }}
             onClick={onOpen}
-            icon={<HamburgerIcon />}
-            aria-label="Open menu"
+            icon={isOpen ? <CloseIcon /> : <HamburgerIcon />}
+            aria-label={isOpen ? "Close menu" : "Open menu"}
             variant="ghost"
             color={colors.brand.dark}
             _hover={{ bg: colors.brand.light }}
@@ -128,6 +128,7 @@ export default function Navbar() {
         bg="white"
         p={4}
         boxShadow="sm"
+        zIndex={9}
       >
         <VStack spacing={4} align="stretch">
           <Link
